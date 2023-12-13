@@ -1,0 +1,2 @@
+model_checkpoint_path: "checkpoint(fold_4,1.5_loss)"
+all_model_checkpoint_paths: "checkpoint(fold_4,1.5_loss)"
